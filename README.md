@@ -33,9 +33,9 @@ banner-api.create("schoolCode","UserId","Pass", function(api) {
 	for(x in api.apiEndpoints){
 		var endpoint = api.apiEndpoints[x]
 		endpoint.call(function(data) {
-		console.log(data['name'] + '')
-		console.log(data['data'])
-	})
+			console.log(data['name'] + '')
+			console.log(data['data'])
+		})
 	}
 })
 ```
