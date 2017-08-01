@@ -1,6 +1,6 @@
 {
   "name": "banner-api",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "Wrapper for undocumented Banner API",
   "main": "index.js",
   "scripts": {
@@ -17,8 +17,8 @@
     "request": "^2.81.0",
     "request-promise-native": "^1.0.4"
   },
-  "repository" :
-  { "type" : "git"
-  , "url" : "https://github.com/bentekkie/BannerApi-npm.git"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bentekkie/BannerApi-npm.git"
   }
 }
