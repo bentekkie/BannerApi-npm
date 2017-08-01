@@ -1,0 +1,20 @@
+{
+  "name": "banner-api",
+  "version": "1.0.0",
+  "description": "Wrapper for undocumented Banner API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "banner",
+    "university",
+    "education"
+  ],
+  "author": "Benjamin  Segall <bentekkie@gmail.com> (https://bentekkie.com)",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.81.0",
+    "request-promise-native": "^1.0.4"
+  }
+}
